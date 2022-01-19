@@ -7,6 +7,3 @@ This is what a README file looks like.
   <li>Here's the link to markdown sytanx https://daringfireball.net/projects/markdown/syntax</li>
   <li>It is also important to use the readme file by updating it with path decisions and important "about" information.</li>
 </ol>
-
-
-Test edit adding code
