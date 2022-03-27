@@ -10,9 +10,9 @@
 	box-sizing: content-box; /* This is already default */
 	background-color: #888888;
 	width: 340px;
-	height: 200px;
 	padding: 20px;
 	border: 10px solid red;
+  height: 200px;
 	margin: 30px;
 }
 
@@ -20,8 +20,9 @@
 	box-sizing: border-box;
 	background-color: #888888;
 	width: 400px;
-	height: 260px;
 	padding: 20px;
 	border: 10px solid red;
 	margin: 30px;
+  height: 260px;
+
 }
